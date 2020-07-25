@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6535ac7a-2584-4674-ba39-13b823da6d3c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="8e44d52e-3faa-4d23-b099-5ee0ccac06b4" />
+  <component name="ProjectId" id="1Zvy32wkDOq5MFInOtSRvuzydzY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/email-extractor.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="email-extractor" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Gitlab-Uni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Nutzer\Anaconda3\envs\epic_jenoptik_venv\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/email-extractor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6535ac7a-2584-4674-ba39-13b823da6d3c" name="Default Changelist" comment="" />
+      <created>1585733660878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585733660878</updated>
+      <workItem from="1585733667953" duration="113000" />
+      <workItem from="1588312682771" duration="393000" />
+      <workItem from="1588581916484" duration="1569000" />
+      <workItem from="1588753561917" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588582022046">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1588582022046" />
+    <state x="270" y="264" key="FileChooserDialogImpl" timestamp="1588582021314">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="270" y="264" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1588582021314" />
+    <state width="859" height="280" key="GridCell.Tab.0.bottom" timestamp="1588582888018">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="859" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1588582888018" />
+    <state width="859" height="280" key="GridCell.Tab.0.center" timestamp="1588582888017">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="859" height="280" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1588582888017" />
+    <state width="859" height="280" key="GridCell.Tab.0.left" timestamp="1588582888015">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="859" height="280" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1588582888015" />
+    <state width="859" height="280" key="GridCell.Tab.0.right" timestamp="1588582888018">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="859" height="280" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1588582888018" />
+    <state x="939" y="168" key="SettingsEditor" timestamp="1588581999218">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="939" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1588581999218" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Gitlab_Uni$email_extractor.coverage" NAME="email-extractor Coverage Results" MODIFIED="1588582887949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Gitlab_Uni$similarity.coverage" NAME="similarity Coverage Results" MODIFIED="1588313083003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

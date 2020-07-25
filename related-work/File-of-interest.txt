@@ -1,0 +1,5 @@
+1. Learning term embeddings for hypernymy identification
+2. Learning term embeddings for taxonomic relation identification using dynamic weighting neural network
+3. Automatic Construction of Multi-faceted browsing interfaces
+4. Automatic facet generation and selection over knowledge graphs
+5. Automatic construction of lexicons-taxonomies-ontologies and other knowledge structures
